@@ -1,0 +1,13 @@
+#bg {
+    background-color: lightblue;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    background-image: url(./bg.png);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family:buttermilk;
+}
